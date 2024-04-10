@@ -6,7 +6,7 @@ This project is built with **React** in the frontend, **GoLang** in the backend,
 ## Technologies Used
 - **Frontend:** React
 - **Backend:** GoLang
-- **Database:** MongoDB
+- **Database:** MongoDB(Local)
 
 
 ## Features
