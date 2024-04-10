@@ -1,45 +1,46 @@
-This project is a calorie tracking application made with React in the frontend, GoLang in the backend, and MongoDB as the database. It allows users to track their calorie intake by entering details about ingredients, fats, calories, and dishes. Users can also delete and update any entry they want.
+# Calorie Tracker
 
-Technologies Used
+## Project Overview
+This project is built with **React** in the frontend, **GoLang** in the backend, and **MongoDB** as the database. It allows users to track their calorie intake by entering details about ingredients, fats, calories, and dishes. Users can also delete and update any entry they want.
 
-Frontend: React
+## Technologies Used
+- **Frontend:** React
+- **Backend:** GoLang
+- **Database:** MongoDB
 
-Backend: GoLang
 
-Database: MongoDB
+## Features
 
-Features
+- Track calorie intake by entering details about ingredients, fats, calories, and dishes.
+- Delete and update entries as needed.
 
-Track calorie intake by entering details about ingredients, fats, calories, and dishes.
-Delete and update entries as needed.
-
-Setup
+## Setup
 
 To run the project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/calorie-tracker.git
+1. Clone the repository: git clone https://github.com/your-username/calorie-tracker.git
 
-Navigate to the project directory: cd calorie-tracker
+2. Navigate to the project directory: cd calorie-tracker
 
-Install dependencies:
+## Install dependencies:
 
-Frontend: cd frontend && npm install
+- Frontend: cd frontend && npm install
 
-Backend: cd backend && go mod tidy
+- Backend: cd backend && go mod tidy
 
-Start the frontend and backend servers:
+## Start the frontend and backend servers:
 
-Frontend: npm start
+- Frontend: npm start
 
-Backend: go run main.go
+- Backend: go run main.go
 
 Open your browser and navigate to http://localhost:3000 to use the application.
 
-Usage
+## Usage
 
-Enter details about ingredients, fats, calories, and dishes to track your calorie intake.
+- Enter details about ingredients, fats, calories, and dishes to track your calorie intake.
 Use the delete and update features to manage your entries.
 
-Contributing
+## Contributing
 
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+- Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
